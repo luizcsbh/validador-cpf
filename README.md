@@ -37,4 +37,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-[JC Bombardelli(https://github.com/jcbombardelli/gama-no-javascript-basico)]
+- [JC Bombardelli](https://github.com/jcbombardelli/gama-no-javascript-basico)
